@@ -1,8 +1,8 @@
 # turing-machine
 A Turing Machine developed in Java.
 
-#Install
+# Install
 Clone the repository and run class Main.java
 
-#Requirements
+# Requirements
 JDK 1.7+
